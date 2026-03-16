@@ -11,3 +11,4 @@
 /resource/lib/sherpa-onnx/*.jar
 !/resource/asr/uploads/.gitkeep
 !/resource/asr/runtime/hotwords/.gitkeep
+/resource/asr/model/asr-model/test_wavs/

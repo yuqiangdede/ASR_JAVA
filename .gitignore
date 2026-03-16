@@ -1,0 +1,13 @@
+/.idea/
+/target/
+/resource/asr/uploads/
+/resource/asr/runtime/hotwords/
+/resource/asr/model/asr-model/decoder*.onnx
+/resource/asr/model/asr-model/encoder*.onnx
+/resource/asr/model/asr-model/joiner*.onnx
+/resource/asr/model/asr-model/tokens.txt
+/resource/asr/model/punctuation-model/model*.onnx
+/resource/asr/model/punctuation-model/tokens.json
+/resource/lib/sherpa-onnx/*.jar
+!/resource/asr/uploads/.gitkeep
+!/resource/asr/runtime/hotwords/.gitkeep

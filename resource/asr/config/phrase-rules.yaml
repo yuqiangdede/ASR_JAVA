@@ -1,0 +1,384 @@
+---
+rules:
+- name: "phrase_rule_001"
+  patterns:
+  - "检索内"
+  replacement: "监所内"
+- name: "phrase_rule_002"
+  patterns:
+  - "赶紧"
+  - "干净"
+  replacement: "干警"
+- name: "phrase_rule_003"
+  patterns:
+  - "尖门"
+  - "间门"
+  - "建门"
+  replacement: "监门"
+- name: "phrase_rule_004"
+  patterns:
+  - "周间"
+  - "州界"
+  - "周届"
+  - "周街"
+  replacement: "周界"
+- name: "phrase_rule_005"
+  patterns:
+  - "坚纯"
+  - "坚强"
+  - "肩强"
+  - "堅强"
+  - "间墙"
+  - "建墙"
+  replacement: "监墙"
+- name: "phrase_rule_006"
+  patterns:
+  - "附件"
+  - "附念"
+  replacement: "附近"
+- name: "phrase_rule_007"
+  patterns:
+  - "电位"
+  - "点为"
+  - "店位"
+  - "典位"
+  replacement: "点位"
+- name: "phrase_rule_008"
+  patterns:
+  - "即加工"
+  replacement: "机加工"
+- name: "phrase_rule_009"
+  patterns:
+  - "监空"
+  - "监孔"
+  - "建控"
+  replacement: "监控"
+- name: "phrase_rule_010"
+  patterns:
+  - "回访"
+  - "会放"
+  - "回防"
+  replacement: "回放"
+- name: "phrase_rule_011"
+  patterns:
+  - "设像头"
+  - "摄象头"
+  replacement: "摄像头"
+- name: "phrase_rule_012"
+  patterns:
+  - "电视强"
+  - "墙面"
+  replacement: "电视墙"
+- name: "phrase_rule_013"
+  patterns:
+  - "上强"
+  replacement: "上墙"
+- name: "phrase_rule_014"
+  patterns:
+  - "分频"
+  - "分平"
+  replacement: "分屏"
+- name: "phrase_rule_015"
+  patterns:
+  - "云抬"
+  - "云太"
+  replacement: "云台"
+- name: "phrase_rule_016"
+  patterns:
+  - "预制位"
+  - "预致位"
+  - "预制为"
+  replacement: "预置位"
+- name: "phrase_rule_017"
+  patterns:
+  - "巡行"
+  - "循航"
+  replacement: "巡航"
+- name: "phrase_rule_018"
+  patterns:
+  - "保警"
+  - "抱警"
+  replacement: "报警"
+- name: "phrase_rule_019"
+  patterns:
+  - "门进"
+  - "门径"
+  replacement: "门禁"
+- name: "phrase_rule_020"
+  patterns:
+  - "火房"
+  replacement: "伙房"
+- name: "phrase_rule_021"
+  patterns:
+  - "会建楼"
+  - "汇见楼"
+  - "会见喽"
+  replacement: "会见楼"
+- name: "phrase_rule_022"
+  patterns:
+  - "仙区"
+  - "尖缺"
+  - "间区"
+  - "监去"
+  - "见区"
+  replacement: "监区"
+- name: "phrase_rule_023"
+  patterns:
+  - "车件"
+  - "车建"
+  replacement: "车间"
+- name: "phrase_rule_024"
+  patterns:
+  - "域内"
+  - "玉内"
+  replacement: "狱内"
+- name: "phrase_rule_025"
+  patterns:
+  - "中兴"
+  - "中信"
+  replacement: "中心"
+- name: "phrase_rule_026"
+  patterns:
+  - "管空"
+  replacement: "管控"
+- name: "phrase_rule_027"
+  patterns:
+  - "监摄"
+  - "间舍"
+  - "建舍"
+  replacement: "监舍"
+- name: "phrase_rule_028"
+  patterns:
+  - "包坊"
+  - "包防"
+  replacement: "包房"
+- name: "phrase_rule_029"
+  patterns:
+  - "宣传市"
+  - "宣传是"
+  replacement: "宣传室"
+- name: "phrase_rule_030"
+  patterns:
+  - "管舰"
+  - "管建"
+  - "管健"
+  replacement: "管件"
+- name: "phrase_rule_031"
+  patterns:
+  - "逢纫"
+  - "逢任"
+  replacement: "缝纫"
+- name: "phrase_rule_032"
+  patterns:
+  - "机加公"
+  replacement: "机加工"
+- name: "phrase_rule_033"
+  patterns:
+  - "被车间"
+  replacement: "北车间"
+- name: "phrase_rule_034"
+  patterns:
+  - "铜壳"
+  - "桶壳"
+  replacement: "筒壳"
+- name: "phrase_rule_035"
+  patterns:
+  - "外斜办"
+  - "歪协办"
+  - "外协伴"
+  replacement: "外协办"
+- name: "phrase_rule_036"
+  patterns:
+  - "材料裤"
+  - "材料苦"
+  replacement: "材料库"
+- name: "phrase_rule_037"
+  patterns:
+  - "缝纫机裤"
+  - "缝纫机苦"
+  replacement: "缝纫机库"
+- name: "phrase_rule_038"
+  patterns:
+  - "陈品库"
+  - "成品裤"
+  replacement: "成品库"
+- name: "phrase_rule_039"
+  patterns:
+  - "西间区域"
+  - "西监去域"
+  replacement: "西监区域"
+- name: "phrase_rule_040"
+  patterns:
+  - "去域"
+  replacement: "区域"
+- name: "phrase_rule_041"
+  patterns:
+  - "拖逃"
+  replacement: "脱逃"
+- name: "phrase_rule_042"
+  patterns:
+  - "习警"
+  - "洗警"
+  replacement: "袭警"
+- name: "phrase_rule_043"
+  patterns:
+  - "轰尖闹事"
+  - "哄见闹事"
+  - "轰监闹事"
+  - "轰间闹事"
+  - "哄间闹事"
+  replacement: "哄监闹事"
+- name: "phrase_rule_044"
+  patterns:
+  - "闹是"
+  - "闹市"
+  replacement: "闹事"
+- name: "phrase_rule_045"
+  patterns:
+  - "哄见闹狱"
+  - "轰监闹狱"
+  replacement: "哄监闹狱"
+- name: "phrase_rule_046"
+  patterns:
+  - "闹欲"
+  - "闹遇"
+  replacement: "闹狱"
+- name: "phrase_rule_047"
+  patterns:
+  - "行胸"
+  replacement: "行凶"
+- name: "phrase_rule_048"
+  patterns:
+  - "群欧"
+  replacement: "群殴"
+- name: "phrase_rule_049"
+  patterns:
+  - "持戒"
+  - "持卸"
+  replacement: "持械"
+- name: "phrase_rule_050"
+  patterns:
+  - "域外"
+  - "欲外"
+  replacement: "狱外"
+- name: "phrase_rule_051"
+  patterns:
+  - "尖狱"
+  - "监御"
+  replacement: "监狱"
+- name: "phrase_rule_052"
+  patterns:
+  - "离间"
+  replacement: "离监"
+- name: "phrase_rule_053"
+  patterns:
+  - "赈灾"
+  replacement: "震灾"
+- name: "phrase_rule_054"
+  patterns:
+  - "值班主认"
+  replacement: "值班主任"
+- name: "phrase_rule_055"
+  patterns:
+  - "总值班帐"
+  - "总值班章"
+  replacement: "总值班长"
+- name: "phrase_rule_056"
+  patterns:
+  - "助监武警部队"
+  - "驻检武警部队"
+  - "驻监武警部对"
+  replacement: "驻监武警部队"
+- name: "phrase_rule_057"
+  patterns:
+  - "武警部对"
+  - "五警部队"
+  replacement: "武警部队"
+- name: "phrase_rule_058"
+  patterns:
+  - "各押范单位"
+  - "各压犯单位"
+  replacement: "各押犯单位"
+- name: "phrase_rule_059"
+  patterns:
+  - "压犯单位"
+  replacement: "押犯单位"
+- name: "phrase_rule_060"
+  patterns:
+  - "预政"
+  replacement: "狱政"
+- name: "phrase_rule_061"
+  patterns:
+  - "预侦"
+  replacement: "狱侦"
+- name: "phrase_rule_062"
+  patterns:
+  - "管理课"
+  replacement: "管理科"
+- name: "phrase_rule_063"
+  patterns:
+  - "狱政课"
+  replacement: "狱政科"
+- name: "phrase_rule_064"
+  patterns:
+  - "狱侦课"
+  replacement: "狱侦科"
+- name: "phrase_rule_065"
+  patterns:
+  - "侦察课"
+  replacement: "侦察科"
+- name: "phrase_rule_066"
+  patterns:
+  - "教育课长"
+  replacement: "教育科长"
+- name: "phrase_rule_067"
+  patterns:
+  - "教育改造课"
+  replacement: "教育改造科"
+- name: "phrase_rule_068"
+  patterns:
+  - "改造课"
+  replacement: "改造科"
+- name: "phrase_rule_069"
+  patterns:
+  - "刑罚课"
+  - "刑法科"
+  replacement: "刑罚科"
+- name: "phrase_rule_070"
+  patterns:
+  - "执行课"
+  replacement: "执行科"
+- name: "phrase_rule_071"
+  patterns:
+  - "间区长"
+  - "监去长"
+  replacement: "监区长"
+- name: "phrase_rule_072"
+  patterns:
+  - "追套"
+  replacement: "追逃"
+- name: "phrase_rule_073"
+  patterns:
+  - "联勤联职"
+  - "联情联值"
+  replacement: "联勤联值"
+- name: "phrase_rule_074"
+  patterns:
+  - "联职单元"
+  - "联值单员"
+  replacement: "联值单元"
+- name: "phrase_rule_075"
+  patterns:
+  - "合一班"
+  - "和一班"
+  replacement: "和衣班"
+- name: "phrase_rule_076"
+  patterns:
+  - "警茶"
+  - "景察"
+  replacement: "警察"
+- name: "phrase_rule_077"
+  patterns:
+  - "被勤"
+  - "背勤"
+  replacement: "备勤"
